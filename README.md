@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on discord bot<br>👯 I’m looking to collaborate on full featured discord bot <br>🤝 I’m looking for help <br>🌱 I’m currently learning new nix thing in replit <br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
